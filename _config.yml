@@ -11,12 +11,12 @@ baseurl: ""
 
 
 # SNS settings
-RSS: true
-#weibo_username:     Ctyke
-#zhihu_username:     Ctyke
+RSS: false
+weibo_username:     Ctyke
+zhihu_username:     Ctyke
 github_username:    ricoyim4b38
 #twitter_username:   Ctyke
-#facebook_username:  Ctyke
+facebook_username:  Ctyke
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,25 +51,25 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-#duoshuo_username: huxblog
+duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "人生匆匆數十載，計劃未來，活在當下。
+sidebar-about-description: "人生匆匆數十載，計劃未來，活在當下。"
 sidebar-avatar: /img/avatar-hux.jpg
 
 
@@ -81,7 +81,7 @@ featured-condition-size: 1
 
 
 # Friends
-friends: [
+#friends: [
 #    {
 #        title: "Su",
 #        href: "http://su.gallery/"
@@ -116,4 +116,4 @@ friends: [
 #        title: "前端神盾局",
 #        href: "http://wepiaofei.github.io/blog/"
 #    }
-]
+#]
