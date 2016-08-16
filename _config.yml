@@ -1,6 +1,6 @@
 # Site settings
-title: Hux Blog
-SEOTitle: Ctyke Blog
+title: Ctyke Blog
+SEOTitle: Ctyke
 header-img: img/home-bg.jpg
 email: chunmingyim@yahoo.com.hk
 description: "此博客由團隊Ctyke共同維護, 我們專注開發所有感興趣的事物, 包括網頁, 遊戲, 程式, 工具, APPS等應用軟體. 同時在這裡分享我們開發心得和開源產品. 這是我們Ctyke的分享平台"
@@ -12,11 +12,11 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     Ctyke
-zhihu_username:     Ctyke
+#weibo_username:     Ctyke
+#zhihu_username:     Ctyke
 github_username:    ricoyim4b38
 #twitter_username:   Ctyke
-facebook_username:  Ctyke
+#facebook_username:  Ctyke
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,24 +51,24 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: CtkyeBlog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true 
 sidebar-about-description: "人生匆匆數十載，計劃未來，活在當下。"
 sidebar-avatar: /img/avatar-hux.jpg
 
