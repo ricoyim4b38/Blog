@@ -2,7 +2,7 @@
 title: Ctyke Blog
 SEOTitle: Ctyke
 header-img: img/home-bg.jpg
-email: chunmingyim@yahoo.com.hk
+email: admin@ctyke.com
 description: "此博客由團隊Ctyke共同維護, 我們專注開發所有感興趣的事物, 包括網頁, 遊戲, 程式, 工具, APPS等應用軟體. 同時在這裡分享我們開發心得和開源產品. 這是我們Ctyke的分享平台"
 keyword: "Ctyke, Rico, Ben, Jason, ben Tsoi, rico yim, Ctyke Blog, 網頁, 遊戲 ,程式, 設計, IT, Apps, 工具, 互聯網"
 url: "http://blog.ctyke.com"
@@ -69,7 +69,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true 
-sidebar-about-description: "人生匆匆數十載，計劃未來，活在當下。"
+sidebar-about-description: "Contact us: admin@ctyke.com"
 sidebar-avatar: /img/avatar-hux.jpg
 
 
